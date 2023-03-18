@@ -1,6 +1,6 @@
 # Yazilim-Gelistirici-Yetistirme-Kampi---Python-Selenium-2023-
 
-(2023) Yazılım Geliştirici Yetiştirme Kampı-Python & Selenium
+(2023) Yazılım Geliştirici Yetiştirme Kampı - Python & Selenium
 
 ***
 
